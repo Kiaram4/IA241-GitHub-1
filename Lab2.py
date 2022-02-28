@@ -35,3 +35,4 @@ print('Hello, world. This is my first python string.'.split('.'))
 #message='Tom's id is 123'
 #print(message)
 
+print(len(('this is a string').split()))
